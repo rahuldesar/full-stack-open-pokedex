@@ -26,3 +26,6 @@ Start by running `npm install` inside the project folder
 
 :)
 WASSUP
+
+
+🗡️
